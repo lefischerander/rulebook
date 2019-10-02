@@ -1,4 +1,4 @@
-# PC: Score Difference Glitch
+# 6. PC: Score Difference Glitch
 
 The score difference glitch is a common glitch that only occurs on the PC platform where a player's streak may be shown twice on another player's screen.
 

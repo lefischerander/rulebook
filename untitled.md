@@ -1,4 +1,4 @@
-# Abilities
+# 2. Abilities
 
 Unless mentioned in tournament-specific rules, all abilities, perks, and streaks are allowed, with the following restrictions:
 

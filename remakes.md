@@ -1,4 +1,4 @@
-# Remakes
+# 5. Remakes
 
 This page explains whether a game should be remade when a player gets stuck in a glitch they cannot get out of or disconnects. Exceptions can be made when necessary. These are simply guidlelines.
 
@@ -26,7 +26,7 @@ If the score difference is higher than the calculated required score difference,
 
 ## Escort
 
-The equation to determine whether an escort game should be remade is as follows:
+In escort, along with disconnects and immobility glitches, VIPs failing to respawn and VIP protectors having a detection meter can force a remake. The equation to determine whether an escort game should be remade is as follows:
 
 $$
 \LaTeX
@@ -37,7 +37,7 @@ $$
 In assassinate, the glitch where a poisoned player receives their poisoner only constitutes a remake when the two affected players are in first and second place and the score difference at the end of the game is less than or equal to the points made by the non-poison kill with the streak bonus on the poison kill subtracted if applicable:
 
 $$
-| p_\mathrm{player1} - p_\mathrm{player2} | \leq | p_\mathrm{poison} - p_\mathrm{streak} |
+| s_\mathrm{player1} - s_\mathrm{player2} | \leq | s_\mathrm{poison} - s_\mathrm{streak} |
 $$
 
 For glitches in which someone gets stuck, the following equation determines whether an assassinate game should be remade:
