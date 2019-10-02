@@ -5,17 +5,20 @@ This page rules over whether a game should be remade when a player gets stuck in
 The variables used in the following equations are defined as:
 
 $$
-p = \mathrm{points} \\
-t = \mathrm{time}
+s = \mathrm{score} \\
+t = \mathrm{time} \\
+p = \mathrm{players}
 $$
 
 ## Manhunt
 
-The equation to determine whether a manhunt game should be remade is as follows:
+The equation that determines the required score for  a manhunt game to be remade is:
 
 $$
-\LaTeX
+s_\mathrm{required} = 13\,\mathrm{\frac{points}{seconds}} \times t \times p +  800\,\mathrm{points}
 $$
+
+![](.gitbook/assets/lin_manhunt.svg)
 
 ## Escort
 
