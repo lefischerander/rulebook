@@ -1,6 +1,6 @@
 # Remakes
 
-This page rules over whether a game should be remade when a player gets stuck in a glitch they cannot get out of or disconnects.
+This page explains whether a game should be remade when a player gets stuck in a glitch they cannot get out of or disconnects. Exceptions can be made when necessary. These are simply guidlelines.
 
 The variables used in the following equations are defined as:
 
