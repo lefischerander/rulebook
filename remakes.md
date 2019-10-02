@@ -14,7 +14,7 @@ $$
 
 
 
-A game is always remade if a player disconnects or gets glitched in the first round. For the second round, the equation that determines the required score for  a manhunt game to be remade is:
+A game is always remade if a player disconnects or gets glitched in the first round. For the second round, the equation that determines the required score difference for  a manhunt game to be remade is:
 
 $$
 s_\mathrm{required} = 13\,\mathrm{\frac{points}{seconds}} \times t \times p +  800\,\mathrm{points}
