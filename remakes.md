@@ -22,6 +22,8 @@ $$
 
 ![](.gitbook/assets/lin_manhunt.svg)
 
+If the score difference is higher than the calculated required score difference, the game is not remade. If it is equal to or less, the game is remade.
+
 ## Escort
 
 The equation to determine whether an escort game should be remade is as follows:
