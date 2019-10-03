@@ -8,5 +8,6 @@
 * [5. Remakes](remakes.md)
 * [6. PC: Score Difference Glitch](pc-score-difference-glitch.md)
 * [7. Manhunt: Point Starving](manhunt-point-starving.md)
-* [8. Proof of Score or Misconduct](proof-of-score-or-misconduct.md)
+* [8. General Rules](8.-general-rules.md)
+* [9. Proof of Score or Misconduct](proof-of-score-or-misconduct.md)
 

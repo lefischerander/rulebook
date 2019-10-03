@@ -1,4 +1,4 @@
-# 8. Proof of Score or Misconduct
+# 9. Proof of Score or Misconduct
 
 ## Score
 

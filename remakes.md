@@ -17,7 +17,7 @@ $$
 A game is always remade if a player disconnects or gets glitched in the first round. For the second round, the equation that determines the required score difference for  a manhunt game to be remade is:
 
 $$
-s_\mathrm{required} = t ^ {1.3} \times p \times 2.2 \, \mathrm{\frac{points}{time \times players}} + 960 \, \mathrm{points}
+s_\mathrm{team1} - s_\mathrm{team2} = t ^ {1.3} \times p \times 2.2 \, \mathrm{\frac{points}{time \times players}} + 960 \, \mathrm{points}
 $$
 
 ![](.gitbook/assets/curved_manhunt.svg)
