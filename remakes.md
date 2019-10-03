@@ -1,6 +1,6 @@
 # 5. Remakes
 
-This page explains whether a game should be remade when a player gets stuck in a glitch they cannot get out of or disconnects. Exceptions can be made when necessary. These are simply guidlelines.
+This page explains whether a game should be remade when a player gets stuck in a glitch they cannot get out of or disconnects. The rare glitch where two players permanently stop moving on each others' screens is also a ground for a remake. Exceptions can be made when necessary. These are simply guidlelines.
 
 The variables used in the following equations are defined as:
 
