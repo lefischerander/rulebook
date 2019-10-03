@@ -20,17 +20,19 @@ $$
 s_\mathrm{team1} - s_\mathrm{team2} = t ^ {1.3} \times p \times 2.2 \, \mathrm{\frac{points}{time \times players}} + 960 \, \mathrm{points}
 $$
 
-![](.gitbook/assets/curved_manhunt.svg)
+![](.gitbook/assets/curved_manhunt%20%282%29.svg)
 
 If the score difference is higher than the calculated required score difference, the game is not remade. If it is equal to or less, the game is remade.
 
 ## Escort
 
-In escort, along with disconnects and immobility glitches, VIPs failing to respawn and VIP protectors having a detection meter can force a remake. The equation to determine whether an escort game should be remade is as follows:
+In escort, along with disconnects and immobility glitches, VIPs failing to respawn and VIP protectors having a detection meter can force a remake. Whether an escort game should be remade is determined by whether the percentage score difference between the two teams falls under or over the following curve, whereby over implies no remake and equal or under implies a remake to be necessary: 
 
 $$
-\LaTeX
+t ^ {1.42} \times 29 \times 10 ^ {-5} \,\mathrm{\frac{\%}{s}} + .067\,\% = \begin{cases}\frac{ s_\mathrm{team1} - s_\mathrm{team2} } {s_\mathrm{team1}} & s_\mathrm{team1} \geq s_\mathrm{team2} \\ \frac{ s_\mathrm{team2} - s_\mathrm{team1} } {s_\mathrm{team2}} & s_\mathrm{team1} < s_\mathrm{team2} \end{cases}
 $$
+
+![](.gitbook/assets/escort%20%281%29.svg)
 
 ## Assassinate
 
