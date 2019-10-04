@@ -45,7 +45,7 @@ $$
 For glitches in which someone gets stuck, the following equation determines whether an assassinate game should be remade:
 
 $$
-s_\mathrm{first\ place} - s_\mathrm{dced} = \sqrt{\frac{2 }{ \pi}}  (t + 6\,\mathrm{s})  ^ 2  \exp\left(\frac{- (t + 6\,\mathrm{s}) ^ 2 } {80 000\, \frac{1}{ \mathrm{s} ^ 2}}\right) \frac{1}{5} + 1400\,\mathrm{points}
+s_\mathrm{first\ place} - s_\mathrm{dced} = \sqrt{\frac{2 }{ \pi}}  (t + 6\,\mathrm{s})  ^ 2  \exp\left(\frac{- (t + 6\,\mathrm{s}) ^ 2 } {80 000\,  \mathrm{s} ^ 2}\right) \frac{1}{5}  \mathrm{\frac{points}{s^2}}+ 1400\,\mathrm{points}
 $$
 
 ![](.gitbook/assets/assa.svg)
