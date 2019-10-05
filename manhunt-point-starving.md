@@ -32,5 +32,5 @@ So called "wall spots" or "blend spots" are loosely defined here. Each block of 
 
 ### San Donato
 
-![](.gitbook/assets/san_donato_spots.png)
+![](.gitbook/assets/san_donato_spots%20%281%29.png)
 
