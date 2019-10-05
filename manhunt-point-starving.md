@@ -8,7 +8,7 @@ Once a player is walled up, they cannot exit the wall spot until they get at lea
 
 ## Death-based Definition
 
-If three or more players are grouped up together, none of these players can run to another spot unless their teammates they were grouped with died and only they are left alive.
+If three or more players are grouped up, none of these players can run to another spot unless their teammates they were grouped with died and only they are left alive.
 
 ## "Spots" on Manhunt Maps
 

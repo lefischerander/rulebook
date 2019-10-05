@@ -10,4 +10,5 @@
 * [7. Manhunt: Point Starving](manhunt-point-starving.md)
 * [8. General Rules](8.-general-rules.md)
 * [9. Proof of Score or Misconduct](proof-of-score-or-misconduct.md)
+* [Changelog](changelog.md)
 
