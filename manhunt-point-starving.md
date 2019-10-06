@@ -12,6 +12,12 @@ If three or more players are grouped up\*, none of these players can run to anot
   
 \* In the case of 2v2s, both players have to be grouped up together. For 1v1s, the stun-based definition is used.
 
+## Consequences
+
+If point starving takes place, proof must be handed over to the tournament officials, who will determine its impact on the outcome of the game. Depending on the severity of the point starving, the equation described in 5. Remakes may be used to determine whether the game must be remade:
+
+{% page-ref page="remakes.md" %}
+
 ## "Spots" on Manhunt Maps
 
 So called "wall spots" or "blend spots" are loosely defined here. Each block of color represents a different blend spot, i.e. one cannot move from color A to color B if one does not fullfill the requirements according to the point starving definition.
