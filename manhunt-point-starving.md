@@ -1,6 +1,6 @@
 # 7. Manhunt: Point Starving
 
-There are multiple ways to define point starving. These are just example definitions until one single definition is agreed upon.
+The following are two separate definitions of point starving. It is up to the tournament organizers to specify which definition is used for their specific tournament. If no definition is specified, the death-based definition is used.
 
 ## Stun-based Definition
 
