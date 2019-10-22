@@ -3,6 +3,14 @@
 This is the unofficial Assassin's Creed: Brotherhood Tournament Rulebook, as agreed on by the following players:
 
 * Dellpit
+* I-14-Inch-LEGEND
+* Jelko
+* Lime232
+* MrEirox123
+* Squiiddiish
+* sjasons
+* Ted95On
+* Wihtedeka
 
 These rules are just guidelines and tournaments may have rules specific to that tournament.
 
