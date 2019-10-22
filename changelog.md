@@ -1,4 +1,6 @@
 # Changelog
 
-A changelog will be released once the first "finished" version of the rulebook is done.
+## 1.0.0 - 2019-10-22
+
+
 
