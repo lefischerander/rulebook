@@ -2,7 +2,7 @@
 
 * [Home](README.md)
 * [1. Maps](maps.md)
-* [2. Abilities](untitled.md)
+* [2. Abilities](abilities.md)
 * [3. Host](host.md)
 * [4. Glitches and Exploits](glitches-and-exploits.md)
 * [5. Remakes](remakes.md)
