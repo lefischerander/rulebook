@@ -9,8 +9,6 @@ Unless mentioned in tournament-specific rules, all abilities, perks, and streaks
 
 These are simple recommendations for rules. By default, these rules are not active. They add the following restrictions:
 
-1. Charge is not allowed in manhunt.
-2. Firecrackers are not allowed in manhunt.
-3. Mute is not allowed on the offensive round in manhunt.
-4. Throwing knives are not allowed in assassinate.
-5. Throwing knives are not allowed on the defensive round in manhunt.
+1. Mute is not allowed on the offensive round in manhunt.
+2. Throwing knives are not allowed in assassinate.
+3. Throwing knives are not allowed on the defensive round in manhunt.
