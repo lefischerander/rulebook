@@ -9,7 +9,7 @@ The following maps are allowed to be played:
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Manhunt | Yes | Yes | Yes | BO5 | BO5 | No | No | No | No | No | No |
 | Assassinate | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | No | No |
-| Escort | Yes | Yes | Yes | Yes | Yes | No | No | No | No | No | No |
+| Escort | Yes | Yes | BO5 | Yes | No | No | No | No | No | No | No |
 
 * \*Only day time is allowed. San Donato Night's brightness clips quickly on TV range displays.
 * BO5 Means the maps are only allowed in best of five games. However, these cannot be played in the final game.

@@ -5,11 +5,13 @@ This is the unofficial Assassin's Creed: Brotherhood Tournament Rulebook, as agr
 * Dellpit
 * I-14-Inch-LEGEND
 * Jelko
+* Jlantitou
 * Lime232
 * MrEirox123
 * Squiiddiish
 * sjasons
 * Ted95On
+* Tha Fazz
 * Wihtedeka
 
 These rules are just guidelines and tournaments may have rules specific to that tournament.
