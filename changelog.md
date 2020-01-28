@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.2 - 2020-01-28
+
+* Added default map rotation for escort.
+* Added team selection.
+
 ## 1.0.2 - 2020-01-26
 
 * Added Forli to escort BO5 rotation.
