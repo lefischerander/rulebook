@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.2 - 2020-01-28
+## 1.0.3 - 2020-01-28
 
 * Added default map rotation for escort.
 * Added team selection.
