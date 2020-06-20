@@ -1,21 +1,6 @@
 # Home
 
-This is the unofficial Assassin's Creed: Brotherhood Tournament Rulebook, as agreed on by the following players:
-
-* Dellpit
-* EsquimoJo
-* I-14-Inch-LEGEND
-* Jelko
-* Jlantitou
-* Lime232
-* MrEirox123
-* Squiiddiish
-* sjasons
-* Ted95On
-* Tha Fazz
-* Wihtedeka
-
-These rules are just guidelines and tournaments may have rules specific to that tournament.
+This is the official Assassins' Network rulebook for Assassin's Creed: Brotherhood. It is a guideline for tournaments and the rulebook Assassins' Network ranked games and related tournaments use.
 
 Contributions of any sort, be it criticism or suggestions, are best made using issues or pull request features on the GitHub page: [https://github.com/ACBMP/rulebook](https://github.com/ACBMP/rulebook)  
 You can also use this to let us know whether you'd like your name to be on this page or not.  

@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.4 2020-06-20
+
+* Added rule disallowing multiple dodges and introducing dodge penalties.
+* Added penalty for intentionally leaving ranked games.
+* Removed player signatures from home page.
+
 ## 1.0.3 - 2020-01-28
 
 * Added default map rotation for escort.
