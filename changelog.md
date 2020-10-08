@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.5 2020-10-08
+
+* Minor re-wordings.
+* Clarified that all elevation ledges are allowed.
+
 ## 1.0.4 2020-06-20
 
 * Added rule disallowing multiple dodges and introducing dodge penalties.
