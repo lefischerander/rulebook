@@ -33,3 +33,9 @@ After the first game, the two highest scorers from the previous game go on separ
 
 This is only relevant for games played during an Assassins' Network season.
 
+## Unfair Spawns
+
+If either team spawns in one of these areas at the beginning of a match, the game has to be remade until neither team has this spawn:
+
+1. Siena: spawning by the blue tent in escort.
+

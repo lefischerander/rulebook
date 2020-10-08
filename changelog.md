@@ -4,6 +4,7 @@
 
 * Minor re-wordings.
 * Clarified that all elevation ledges are allowed.
+* Added Siena escort spawn remake.
 
 ## 1.0.4 2020-06-20
 
