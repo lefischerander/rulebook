@@ -37,5 +37,5 @@ This is only relevant for games played during an Assassins' Network season.
 
 If either team spawns in one of these areas at the beginning of a match, the game has to be remade until neither team has this spawn:
 
-1. Siena: spawning by the blue tent in escort.
+1. Siena: spawning by the blue tent in escort with a VIP spawn between the green and blue areas.
 
