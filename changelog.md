@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.6 2021-02-03
+
+* Added the No Running Rule.
+* Point starving on round 1 for team 2 is now a forfeit at the fault of the culprit.
+
 ## 1.0.5 2020-10-08
 
 * Minor re-wordings.

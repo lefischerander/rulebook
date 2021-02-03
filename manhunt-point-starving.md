@@ -1,6 +1,10 @@
 # 7. Manhunt: Point Starving
 
-The following are two separate definitions of point starving. It is up to the tournament organizers to specify which definition is used for their specific tournament. If no definition is specified, the death-based definition is used.
+The following are three separate definitions of point starving. It is up to the tournament organizers to specify which definition is used for their specific tournament. If no definition is specified, the Stun-based Rule is used.
+
+## No Running Rule
+
+Once a player is grouped up with at least one teammate, they are locked into the wall spot they are currently at and cannot leave it.
 
 ## Stun-based Definition
 
@@ -17,6 +21,8 @@ If three or more players are grouped up\*, none of these players can run to anot
 If point starving takes place, proof must be handed over to the tournament officials, who will determine its impact on the outcome of the game. Depending on the severity of the point starving, the equation described in 5. Remakes may be used to determine whether the game must be remade:
 
 {% page-ref page="remakes.md" %}
+
+If team 2 intentionally point starves \(meaning the remake rules cannot be applied\), they must forfeit the match. In the case of Assassins' Network seasonal games, the loss will only be handed to the player\(s\) who performed the point starving.
 
 ## "Spots" on Manhunt Maps
 
