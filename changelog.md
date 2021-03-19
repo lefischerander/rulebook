@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.7 2021-03-19
+
+* Banned firecrackers in manhunt.
+
 ## 1.0.6 2021-02-03
 
 * Added the No Running Rule.
