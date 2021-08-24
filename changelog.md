@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.8 2021-08-24
+
+* Updated dodging rule.
+* Banned mute in escort.
+
 ## 1.0.7 2021-03-19
 
 * Banned firecrackers in manhunt.

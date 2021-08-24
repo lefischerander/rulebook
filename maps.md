@@ -23,7 +23,7 @@ The default map rotation for escort is:
 1. Castel Gandolfo
 2. Venice
 3. Siena
-4. Forli
+4. Forli \(OR Rome\)
 5. San Donato
 
 ## Team Selection
