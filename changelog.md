@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.9 2021-09-22
+
+* Updated dodging rule to enable losses with two dodges taken.
+
 ## 1.0.8 2021-08-24
 
 * Updated dodging rule.
