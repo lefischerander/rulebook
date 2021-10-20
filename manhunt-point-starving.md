@@ -12,17 +12,19 @@ Once a player is walled up, they cannot exit the wall spot until they get at lea
 
 ## Death-based Definition
 
-If three or more players are grouped up\*, none of these players can run to another spot unless their teammates they were grouped with died and only they are left alive.  
-  
+If three or more players are grouped up\*, none of these players can run to another spot unless their teammates they were grouped with died and only they are left alive.\
+\
 \* In the case of 2v2s, both players have to be grouped up together. For 1v1s, the stun-based definition is used.
 
 ## Consequences
 
 If point starving takes place, proof must be handed over to the tournament officials, who will determine its impact on the outcome of the game. Depending on the severity of the point starving, the equation described in 5. Remakes may be used to determine whether the game must be remade:
 
-{% page-ref page="remakes.md" %}
+{% content-ref url="remakes.md" %}
+[remakes.md](remakes.md)
+{% endcontent-ref %}
 
-If team 2 intentionally point starves \(meaning the remake rules cannot be applied\), they must forfeit the match. In the case of Assassins' Network seasonal games, the loss will only be handed to the player\(s\) who performed the point starving.
+If team 2 intentionally point starves (meaning the remake rules cannot be applied), they must forfeit the match. In the case of Assassins' Network seasonal games, the loss will only be handed to the player(s) who performed the point starving.
 
 ## "Spots" on Manhunt Maps
 
@@ -30,21 +32,20 @@ So called "wall spots" or "blend spots" are loosely defined here. Each block of 
 
 ### Siena
 
-![](.gitbook/assets/siena_spots.png)
+![](.gitbook/assets/siena\_spots.png)
 
 ### Castel Gandolfo
 
-![](.gitbook/assets/castel_gandolfo_spots.png)
+![](<.gitbook/assets/castel\_gandolfo\_spots (1).png>)
 
 ### Venice
 
-![](.gitbook/assets/venice_spots.png)
+![](<.gitbook/assets/venice\_spots (1).png>)
 
 ### Rome
 
-![](.gitbook/assets/rome_spots.png)
+![](.gitbook/assets/rome\_spots.png)
 
 ### San Donato
 
-![](.gitbook/assets/san_donato_spots%20%281%29.png)
-
+![](<.gitbook/assets/san\_donato\_spots (1).png>)

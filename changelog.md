@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.10 2021-10-20
+
+* Added Rome to Escort rotation in BO5.
+
 ## 1.0.9 2021-09-22
 
 * Updated dodging rule to enable losses with two dodges taken.
@@ -47,6 +51,4 @@
 * Escort map changes: removed Rome and changed Venice to BO5-only map.
 
 ## 1.0.0 - 2019-10-22
-
-
 
