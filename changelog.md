@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.11 2021-11-27
+
+* Added Rome unfair escort spawn and clarified when Siena's happens.
+* Added explanations of what the host affects.
+
 ## 1.0.10 2021-10-20
 
 * Added Rome to Escort rotation in BO5.

@@ -37,4 +37,5 @@ This is only relevant for games played during an Assassins' Network season.
 
 If either team spawns in one of these areas at the beginning of a match, the game has to be remade until neither team has this spawn:
 
-1. Siena: spawning by the blue tent in escort with a VIP spawn between the green and blue areas.
+1. Siena: spawning by the blue tent in escort with a VIP spawn between the green and blue areas. This happens when one team gets the blue spawn and the other team gets the green spawn.
+2. Rome: spawning by Pillars with the VIP paths in the corner between Pillars and Pantheon. This happens when one team spawns Pillars and the other team spawns Statue.&#x20;
