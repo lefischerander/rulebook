@@ -2,7 +2,7 @@
 
 ## Score
 
-For the score to be added up, on PC, every player in a match must take a screenshot of the final scoreboard and turn it in to tournament officials. If a player does not manage to hand in a screenshot, the lowest score shown for them by other players is used for this player's score.
+On PC, the host must present their scoreboard and this will be assumed to be the correct one. On console, any player's scoreboard works. In the case of discrepancies, players' scores as shown on their own screen are counted.&#x20;
 
 ## Misconduct
 

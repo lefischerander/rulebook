@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.12 2022-01-27
+
+* Updated escort maps.
+* Updated team selection.
+* Updated PC score glitch.
+
 ## 1.0.11 2021-11-27
 
 * Added Rome unfair escort spawn and clarified when Siena's happens.

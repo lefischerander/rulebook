@@ -9,7 +9,7 @@ The following maps are allowed to be played:
 | ----------- | ----- | :-------------: | :----: | :----------: | :--: | :---: | :------: | :------------: | :----: | :------: | :-----------: |
 | Manhunt     | Yes   |       Yes       |   Yes  |      BO5     |  BO5 |   No  |    No    |       No       |   No   |    No    |       No      |
 | Assassinate | Yes   |       Yes       |   Yes  |      Yes     |  Yes |  Yes  |    Yes   |       Yes      |   No   |    No    |       No      |
-| Escort      | Yes   |       Yes       |   BO5  |      Yes     |  BO5 |  BO5  |    No    |       No       |   No   |    No    |       No      |
+| Escort      | Yes   |       Yes       |   BO5  |      Yes     |  BO5 |  BO5  |    BO5   |       No       |   No   |    No    |       No      |
 
 * \*Only day time is allowed. San Donato Night's brightness clips quickly on TV range displays.
 * BO5 Means the maps are only allowed in best of five games. However, in manhunt, these cannot be played in the final game.
@@ -18,24 +18,39 @@ The following maps are allowed to be played:
 
 #### Escort
 
-The default map rotation for escort is:
+The default map rotation for escort BO5s is:
 
 1. Castel Gandolfo
-2. Venice
-3. Siena
+2. Siena (after 2 failed attempts, Rome)
+3. Venice
 4. Forli (OR Rome)
 5. San Donato
 
+For Assassins' Network seasonal games:
+
+1. Castel Gandolfo
+2. Siena (after 2 failed attempts, Florence)
+3. Venice
+4. Forli
+5. Rome
+6. San Donato
+
 ## Team Selection
 
-The first game played is played with randomized teams as ACB sets it (i.e. no player chooses a team).\
-After the first game, the two highest scorers from the previous game go on separate teams and all other players are assigned randomly as ACB sets it.
+#### Manhunt
 
-This is only relevant for games played during an Assassins' Network season.
+For Assassins' Network seasonal manhunt games, team compositions are set according to the players' elos, with slight randomization, to make teams as fair as possible.
 
-## Unfair Spawns
+#### Escort
 
-If either team spawns in one of these areas at the beginning of a match, the game has to be remade until neither team has this spawn:
+For Assassins' Network seasonal manhunt games, a full rotation of every possible set of team compositions must be gone through every three matches.
 
-1. Siena: spawning by the blue tent in escort with a VIP spawn between the green and blue areas. This happens when one team gets the blue spawn and the other team gets the green spawn.
-2. Rome: spawning by Pillars with the VIP paths in the corner between Pillars and Pantheon. This happens when one team spawns Pillars and the other team spawns Statue.&#x20;
+## Unfair Spawns in Escort
+
+#### Siena
+
+If either team spawns on the green side of the map, the game must be remade.
+
+#### General
+
+If the initial VIP spawn is such that the defending team cannot possibly reach the VIPs before the attacking team, the defenders must leave the match and the game replayed. Failure to leave implies the team is okay with this disadvantage and must accept the game's outcome.
