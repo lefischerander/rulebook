@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.0.13 2022-11-01
+
+* Updated escort maps.
+* Re-allowed mute in escort.
+* Disallowed gun on defense in escort on console.
+
 ## 1.0.12 2022-01-27
 
 * Updated escort maps.

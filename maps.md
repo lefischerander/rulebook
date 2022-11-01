@@ -7,12 +7,12 @@ The following maps are allowed to be played:
 
 |             | Siena | Castel Gandolfo | Venice | San Donato\* | Rome | Forli | Florence | Mont St-Michel | Pienza | Alhambra | Monteriggioni |
 | ----------- | ----- | :-------------: | :----: | :----------: | :--: | :---: | :------: | :------------: | :----: | :------: | :-----------: |
-| Manhunt     | Yes   |       Yes       |   Yes  |      BO5     |  BO5 |   No  |    No    |       No       |   No   |    No    |       No      |
+| Manhunt     | Yes   |       Yes       |   BO5  |      BO5     |  BO5 |   No  |    No    |       No       |   No   |    No    |       No      |
 | Assassinate | Yes   |       Yes       |   Yes  |      Yes     |  Yes |  Yes  |    Yes   |       Yes      |   No   |    No    |       No      |
 | Escort      | Yes   |       Yes       |   BO5  |      Yes     |  BO5 |  BO5  |    BO5   |       No       |   No   |    No    |       No      |
 
 * \*Only day time is allowed. San Donato Night's brightness clips quickly on TV range displays.
-* BO5 Means the maps are only allowed in best of five games. However, in manhunt, these cannot be played in the final game.
+* BO5 Means the maps are only allowed in best-of-five matches. However, in manhunt, these cannot be played in the final game.
 
 ## Map Rotation
 
@@ -29,11 +29,30 @@ The default map rotation for escort BO5s is:
 For Assassins' Network seasonal games:
 
 1. Castel Gandolfo
-2. Siena (after 2 failed attempts, Florence)
+2. Siena (after 2 failed attempts, skip to Venice)
 3. Venice
 4. Forli
 5. Rome
 6. San Donato
+
+On console, Florence is also allowed in seasonal games.
+
+#### Manhunt
+
+The default map rotation for manhunt BO5s is:
+
+1. Castel Gandolfo
+2. Siena
+3. Venice
+4. Rome
+5. San Donato
+
+For Assassins' Network season games:
+
+1. Castel Gandolfo
+2. Siena
+
+Other maps can be played if all players agree, but should only be played sparingly.&#x20;
 
 ## Team Selection
 
