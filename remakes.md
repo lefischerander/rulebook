@@ -38,7 +38,7 @@ In domination, disconnects, cup glitch or getting stuck in a wall are the main g
 Whether a domination game should be remade is determined by whether the progress advantage between the two teams falls under or over the matching curve for territories, whereby over implies no remake and equal or under implies a remake to be necessary.&#x20;
 
 Untill a fitting curve and exact formula is decided on, the general rules will be as follows:
-# Note: 0% progress is equality. X% progress is the portion of the bar for 1 side.
+### Note: 0% progress is equality. X% progress is the portion of the bar for 1 side.
 1. A disconnect on the team with the current progress lead will always be remade.
 2. Regardless of the score, a single disconnect in the team without the host could be continued as usual if 75% or more players agree. The host team would have 1 player afk away from enemy territories, untill the player rejoins.
 3. A disconnect within the first 2 minutes is always a remake.
