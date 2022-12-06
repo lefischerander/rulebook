@@ -6,6 +6,6 @@ On PC, the host must present their scoreboard and this will be assumed to be the
 
 ## Misconduct
 
-In the case that a team or player is accused of misconduct, video or picture proof must be sent to tournament officials. Picture proofs are only possible for map-specific glitches.
+In the case that a team or player is accused of misconduct, video or picture proof must be sent to tournament officials in the case of tournaments, or season admins in Assassins' Network season matches. Picture proofs are only possible for map-specific glitches.
 
 For video proof, as much of the game as possible must be shown. It is for this reason that it is advised for as many players as possible to record their gameplay during a tournament match.

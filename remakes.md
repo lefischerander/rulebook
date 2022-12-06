@@ -12,8 +12,6 @@ $$
 
 ## Manhunt
 
-
-
 A game is always remade if a player disconnects or gets glitched in the first round. For the second round, the equation that determines the required score difference for  a manhunt game to be remade is:
 
 $$
@@ -33,6 +31,21 @@ t ^ {1.42} \times 29 \times 10 ^ {-5} \,\mathrm{\frac{\%}{s}} + .067\,\% = \begi
 $$
 
 ![](<.gitbook/assets/escort (1).svg>)
+
+## Domination
+
+In domination, disconnects, cup glitch or getting stuck in a wall are the main grounds for remakes.
+Whether a domination game should be remade is determined by whether the progress advantage between the two teams falls under or over the matching curve for territories, whereby over implies no remake and equal or under implies a remake to be necessary.&#x20;
+
+Untill a fitting curve and exact formula is decided on, the general rules will be as follows:
+# Note: 0% progress is equality. X% progress is the portion of the bar for 1 side.
+1. A disconnect on the team with the current progress lead will always be remade.
+2. Regardless of the score, a single disconnect in the team without the host could be continued as usual if 75% or more players agree. The host team would have 1 player afk away from enemy territories, untill the player rejoins.
+3. A disconnect within the first 2 minutes is always a remake.
+4. A disconnect vs 2-cap (or better) and >=75% progress will not be a remake.
+5. A disconnect in the last 3 minutes with >=90% progress will not be a remake.
+6. A disconnect in the last 2 minutes with >=75% progress will not be a remake.
+7. A disconnect in the last minute won't be a remake.
 
 ## Assassinate
 
