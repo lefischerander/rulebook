@@ -1,5 +1,10 @@
 # Changelog
 
+### 1.0.14 2022-12-08
+
+* Add Domination
+* Rename to Assassins' Network Rulebook
+
 ### 1.0.13 2022-11-01
 
 * Updated escort maps.
