@@ -60,16 +60,17 @@ The default map rotation for Domination BO5s is:
 
 1. Kingston
 2. Santa Lucia
-3. Palenque
+3. La Havana
 4. Saba Island
 5. Plantation
 
 For Assassins' Network season games also allowed:
 
-1. La Havana
+1. Palenque
 2. Tampa Bay
+3. St Matheu
 
-St Pierre, St Matheu and Charlestown can be played if all players agree. &#x20;
+St Pierre and Charlestown can be played if all players agree. &#x20;
 
 ## Team Selection
 
