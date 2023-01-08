@@ -42,9 +42,9 @@ Untill a fitting curve and exact formula is decided on, the general rules will b
 1. A disconnect on the team with the current progress lead will always be remade.
 2. Regardless of the score, a single disconnect in the team without the host could be continued as usual if 75% or more players agree. The host team would have 1 player afk away from enemy territories, untill the player rejoins.
 3. A disconnect within the first 2 minutes is always a remake.
-4. A disconnect vs 2-cap (or better) and >=75% progress will not be a remake.
-5. A disconnect in the last 3 minutes with >=90% progress will not be a remake.
-6. A disconnect in the last 2 minutes with >=75% progress will not be a remake.
+4. A disconnect vs 2-cap (or better) and >=60% progress will not be a remake.
+5. A disconnect in the last 3 minutes with >=45% progress will not be a remake.
+6. A disconnect in the last 2 minutes with >=30% progress will not be a remake.
 7. A disconnect in the last minute won't be a remake.
 
 ## Assassinate
