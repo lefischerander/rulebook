@@ -72,6 +72,14 @@ For Assassins' Network season games also allowed:
 
 St Pierre and Charlestown can be played if all players agree. &#x20;
 
+#### Artifact Assault - ACR
+
+Because games are hosted in public the maps are randomized. 
+
+Players can decide whether or not they want to play Souk or Knight's Hospital. Other maps must be played.
+
+Lobbies should be rehosted when they are stuck in a small map rotation or when one map is being played too much. 
+
 ## Team Selection
 
 #### Manhunt
